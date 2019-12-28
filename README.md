@@ -1,3 +1,3 @@
 # hello-world
 just learn how to use github
-这是一个新的分支
+学习一下如何使用GitHub。
